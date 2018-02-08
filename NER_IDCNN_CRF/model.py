@@ -1,4 +1,4 @@
-# encoding = utf8
+# encoding = utf-8
 import numpy as np
 import tensorflow as tf
 from tensorflow.contrib.crf import crf_log_likelihood
